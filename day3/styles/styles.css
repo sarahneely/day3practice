@@ -1,0 +1,50 @@
+body {
+  min-height: 100vh;
+}
+.outer {
+  background-color: yellow;
+  padding: 50px;
+  border: 1px solid black;
+}
+.navigation {
+  background-color: blue;
+  border: 1px solid black;
+  padding: 25px;
+}
+.jumbotron {
+  background-color: teal;
+  border: 1px solid black;
+}
+.pre-offset {
+  background-color: green;
+  border: 1px solid black;
+  padding: 25px;
+}
+.offset {
+  background-color: purple;
+  border: 1px solid black;
+  padding: 25px;
+}
+.content {
+  background-color: red;
+  border: 1px solid black;
+}
+.aside {
+  background-color: black;
+  border: 1px solid black;
+}
+.footer {
+  background-color: orange;
+  border: 1px solid black;
+}
+.promo {
+  background-color: yellow;
+  border: 1px solid black
+}
+
+@media only screen and (max-width:768px) {
+
+}
+@media only screen and(max-width:375px) {
+
+}
